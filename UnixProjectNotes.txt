@@ -1,0 +1,22 @@
+Unix project:
+Week 1:
+make repository 
+look for packages
+Compare desktop environment
+
+Stuff:
+Automated back up
+
+Git:
+Liscence
+Install
+Read Me
+
+Personal Journal:
+What research
+what you did
+day by day
+
+Week 2:
+Install packages on debian and fedora (use os boxes for less space) to justify the packages use, look, customize (make something that the user likes ex.wallpaper)
+packages.debian.org
