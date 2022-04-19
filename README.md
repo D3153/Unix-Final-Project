@@ -16,14 +16,18 @@ VirtualMachine throughout the semester. This project will be available and updat
 using GitHub to keep track of our process and mistakes.
 
 3. Requirements:
+
 • The creation of multiple user accounts: Users can be created within the terminal
 and assigned a unique password to each, using root.
+
 • Process or service management: We will record our process and failures to adapt
 to them. We will provide steps for the installation of our OS, including
 the passwords.
+
 • Basic system security: Upon login, users will need a password to access our OS.
 As sysadmins, we will grant all access only to the main user and read/execute only
 to the other users.
+
 • Automated tasks using a script language:
 - At login (pop up) display the message “Welcome to MusicOS!”
 - Automatically open the window for Audacity upon power up.
