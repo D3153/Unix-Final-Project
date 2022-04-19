@@ -20,6 +20,7 @@ day by day
 Week 2:
 Install packages on debian and fedora (use os boxes for less space) to justify the packages use, look, customize (make something that the user likes ex.wallpaper)
 packages.debian.org
+https://www.debian.org/distrib/packages?msclkid=b77e0b2cc01811eca5b30e9e0072c943
 
 Description of user (make user)
 Next week present desktop
