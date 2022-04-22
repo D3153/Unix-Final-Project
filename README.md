@@ -46,3 +46,14 @@ Week 3: Recap what we’ve accomplished so far and what is left to meet the
 requirements. Try to complete the core of the project. Have the completed guide to
 installation. Make sure applications are pre installed.
 Week 4: Final touches and presentation.
+
+USER INFO:
+This desktop is for anyone who loves to make music and loves to listen to music. This 
+desktop is catered to a younger audience, anyone from 12-35, but any user can enjoy it.
+Using Debian will make it easier for new linux users to navigate through this desktop. 
+
+Charlie is a 22 year old who aspires to produce music for her band. Her friends do not
+know how to make music so he tries find a simple beginner friendly music production 
+desktop provided with apps. The problem is that he cannot find any that is beginner
+friendly and found the applications overwhelming for new music lovers. That why we made 
+this new desktop, for people who are learning/beginners to music prodiction. 
