@@ -23,4 +23,6 @@ packages.debian.org
 https://www.debian.org/distrib/packages?msclkid=b77e0b2cc01811eca5b30e9e0072c943
 
 Description of user (make user)
+User: charlie, Billy, Psycho 
+Password: music
 Next week present desktop
