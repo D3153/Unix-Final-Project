@@ -1,5 +1,5 @@
 # Unix-Final-Project
-Names: Dinal Patel, Emmy Ea
+Contributors: Dinal Patel, Emmy Ea
 
 ## 1. Project description/goals:
 For our project we chose to do a purpose-specific desktop system using Debian as
@@ -28,14 +28,10 @@ the passwords.
 As sysadmins, we will grant all access only to the main user and read/execute only
 to the other users.
 
-• Automated tasks using a script language:
-- At login (pop up) display the message “Welcome to MusicOS!”
-- Automatically open the window for Audacity upon power up.
-
 ## 4. Major technical solutions compared:
 Solution 1: Debian, because we’ve both used Debian as our primary OS for all our
 labs and we are more familiar with it. Also supported by the school computers.
-Solution 2: Fedora, to be updated
+Solution 2: Fedora.
 
 ## 5. Timeline:
 Week 1: Brainstorming and writing the proposal. Getting a general idea of how to
@@ -57,3 +53,20 @@ know how to make music so he tries find a simple beginner friendly music product
 desktop provided with apps. The problem is that he cannot find any that is beginner
 friendly and found the applications overwhelming for new music lovers. That why we made 
 this new desktop, for people who are learning/beginners to music prodiction. 
+
+## Customization of desktop
+Cinnamon allows users to customize the icons of each shorcuts by right clicking and selecting properties. And clicking on the icon image. 
+You can also change the size of your icons by right clicking your desktop and selecting customize. Unselecting auto-arrange allows users to freely place their shortcuts.
+
+## Installation guide for packages (sysadmins)
+• sudo apt-get upgrade, to insure that you have the latest versions of the packages available. 
+
+• https://blends.debian.org/edu/tasks/music, offers users a list of available in Debian 11 on installation. It does not require additional download. 
+example: sudo apt-get install audacity, will install audacity to your VM. All users will have access to those applications without needing to redownload them through their own terminal. 
+
+• To add shorcuts to the desktop, simply search for the application name and right click and select add to desktop. 
+• To add shorcuts to the desktop using launchers, right click your desktop. Select "Create a new launcher here". Enter and name. Browse in command, select other location. Pick computer. Select lib folder. For example find the firefox-esr folder and select firefox-esr. This should allow you to add a launcher.
+
+
+
+
